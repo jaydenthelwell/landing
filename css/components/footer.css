@@ -1,0 +1,17 @@
+.footer {
+  background-size: cover;
+  background-position: center;
+  background-color: rgb(53, 52, 52);
+  padding: 115px 0;
+  padding-bottom: 70px;
+}
+
+.footer p {
+  color: rgb(108, 104, 104);
+  font-size: 18px;
+}
+
+.footer a {
+  font-size: 30px;
+  color: #1EDD88;
+}
